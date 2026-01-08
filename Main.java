@@ -1,3 +1,5 @@
+
+//Binary Search Algorithm with sorted Array 
 public class Main {
     public static void main(String[] args) {
         int[] arr = {15, 32, 45, 54, 60}; // sorted
@@ -27,3 +29,4 @@ public class Main {
         }
     }
 }
+
